@@ -7,12 +7,15 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
+  retrofit: any
   flutter:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  font_awesome_flutter: ^10.1.0
 
 dev_dependencies:
+  retrofit: any
   flutter_test:
     sdk: flutter
 
